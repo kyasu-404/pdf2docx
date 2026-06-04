@@ -1,6 +1,8 @@
 # pdf2docx
 # Convert PDF to DOCX
 
+py -m pip install pdf2docx
+
 # Структура:
 D:\Docs\  
 │  
@@ -13,3 +15,5 @@ D:\Docs\
    ├─ документ1.docx  
    ├─ документ2.docx  
    └─ документ3.docx  
+
+py pdf2doc.py
